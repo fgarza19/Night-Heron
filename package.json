@@ -1,0 +1,31 @@
+{
+  "name": "night-heron",
+  "displayName": "Night Heron",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Heron",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Heron-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/Night Heron.ico",
+  "author": {
+    "name": "Fran Garza",
+    "email": "francisco.garza1999@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/fgarza19/Night-Heron.git",
+    "type": "git"
+  },
+  "publisher": "fgarza19"
+}
